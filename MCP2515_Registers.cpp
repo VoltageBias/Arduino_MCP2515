@@ -2,8 +2,9 @@
  * Gilbert Waltoon 
  * 
  * Released under a GNU General Public License v3.0 
- *  
- * PURPOSE: UTILITIES FOR MCP2515 CAN CONTROLLER
+ * 
+ * FILENAME : MCP2515_Registers.cpp
+ * PURPOSE  : UTILITIES FOR MCP2515 CAN CONTROLLER
  *    
  *
  *  VERSION 0 
