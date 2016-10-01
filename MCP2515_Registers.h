@@ -2,7 +2,8 @@
  * Gilbert Waltoon 
  * 
  * Released under a GNU General Public License v3.0 
- *  
+ * 
+ * FILENAME: MCP2515_Registers.h
  * PURPOSE: REGISTERS AND UTILITIES FOR MCP2515 CAN CONTROLLER
  *    
  *
