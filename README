@@ -1,0 +1,5 @@
+These files are part of a project to interface an Arduino to an MCP2515 CAN module, and have them transmit CAN data
+to a Texas Instruments TM4C Lauchpad.
+
+A detailed description of the project is available at VoltageBias.blogspot.co.uk
+
