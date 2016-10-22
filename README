@@ -1,5 +1,9 @@
-These files are part of a project to interface an Arduino to an MCP2515 CAN module, and have them transmit CAN data
+These files are part of a project to interface an Arduino to a MCP2515 CAN module, and transmit data
 to a Texas Instruments TM4C Lauchpad.
 
-A detailed description of the project is available at VoltageBias.blogspot.co.uk
+A detailed project description is at VoltageBias.blogspot.co.uk.
 
+To use with Arduino, copy all files except "Lauchpad_CAN_temp_rx" into a folder named ARDUINO_MCP2515_CANBus_Tx, then launch.
+
+A set of handy functions is included, to simplify communicating with the MCP2515 
+- see comments, lines 30-40, of MCP2515_Registers.h
